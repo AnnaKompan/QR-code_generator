@@ -1,5 +1,4 @@
 # QR Code Generator using Python
 
-![First Example](./qr1.png)
+![Example with link](./qr.png)
 
-![Second Example](./qr.png)
